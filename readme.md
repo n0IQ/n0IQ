@@ -3,7 +3,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Mohit_Varma1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/n0IQ&screen_name=Mohit_Varma1)
 
-## <p align="center"> Hello Folks!, This is [**Mohit Varma**](https://n0IQ.github.io/) :wave: </p>
+## <p align="center"> Hello Folks!, This is [**Mohit Varma**]() :wave: </p>
 
 <div>
 <h3 align="center"> I'm Mohit Varma, currently a Final year Student at Mumbai University in IT. </h3>
@@ -45,7 +45,7 @@
   <a href="https://en.wikipedia.org/wiki/Sublime_Text"><img width="40" src="https://avatars.githubusercontent.com/u/684879?s=400&v=4"/></a>
   <a href="https://en.wikipedia.org/wiki/HTML"><img width="40" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png"/></a>
   <a href="https://en.wikipedia.org/wiki/CSS"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png"/>
-  <a href="https://en.wikipedia.org/wiki/JavaScript"><img width="34.5" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png"/></a>
+  <a href="https://en.wikipedia.org/wiki/JavaScript"><img width="34.5" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"/></a>
 <!--   <img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>   -->
   <!-- <a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)"><img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bootstrap.svg"/></a> -->
   <!-- <a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)"><img width="40" src="https://cdn.worldvectorlogo.com/logos/react-1.svg"/></a> -->
@@ -69,13 +69,13 @@
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"  height="30px" width = 32px> &nbsp; Coding Profiles
 
-<!-- <p><img align="right" src="https://raw.githubusercontent.com/dhanrajchaurasia/cfstats/main/output/light_card.svg#gh-dark-mode-only" /></p> -->
+<!-- <p><img align="right" src="https://raw.githubusercontent.com/Mohit./cfstats/main/output/light_card.svg#gh-dark-mode-only" /></p> -->
 <img align="right" src="https://cp-logo.vercel.app/leetcode/n0IQ" alt="Leet code rating" />
 
   </a>
  
- <!-- <p><img align="left" src="https://raw.githubusercontent.com/dhanrajchaurasia/cfstats/main/output/max_rating.svg" /></p> -->
- <!-- <p><img align="left" src="https://raw.githubusercontent.com/dhanrajchaurasia/cfstats/main/output/rating.svg" /></p> -->
+ <!-- <p><img align="left" src="https://raw.githubusercontent.com/Mohit./cfstats/main/output/max_rating.svg" /></p> -->
+ <!-- <p><img align="left" src="https://raw.githubusercontent.com/Mohit./cfstats/main/output/rating.svg" /></p> -->
 <br><hr>
 
 - I'm a **Specialist** (max. **1414**), solved **1.4K+** problems on [**Codeforces**](https://codeforces.com/profile/Mohit.)**.**
@@ -89,10 +89,7 @@
 
 <!-- ## :anchor: Personal Projects
 
-- [**URL Shorterner**](https://dhanrajchaurasia.github.io/Image-Editor-Project/)
-- [**Calculator**](https://dhanrajchaurasia.github.io/calculator/)
-- [**Tools**](https://dhanrajchaurasia.github.io/tools/)
-- [**Big Integers For C++**](https://github.com/dhanrajchaurasia/BigIntegers) -->
+- [**URL Shorterner**](https://dhanrajchaurasia.github.io/Image-Editor-Project/) -->
 
 <img align="right" height="273em" src="https://leetcard.jacoblin.cool/n0IQ?theme=dark&font=Karma&ext=contest" />
 
@@ -101,7 +98,7 @@
 - [**Competitive Programming**](https://github.com/n0IQ/Competitive-Programming)
 - [**Advanced-Data-Structures**](https://github.com/n0IQ/Advanced-Data-Structures)
 - [**Data-Structures-and-Algorithms**](https://github.com/n0IQ/Data-Structures-and-Algorithms)
-- [**Low-Level-Design**](https://github.com/dhanrajchaurasia/dhanrajchaurasia.github.io)
+- [**Low-Level-Design**](https://github.com/n0IQ/Low-Level-Design)
 - [**LeetCode**](https://github.com/n0IQ/LeetCode)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
