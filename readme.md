@@ -89,7 +89,7 @@
 
 <!-- ## :anchor: Personal Projects
 
-- [**URL Shorterner**](https://dhanrajchaurasia.github.io/Image-Editor-Project/) -->
+- [**URL Shorterner**]() -->
 
 <img align="right" height="273em" src="https://leetcard.jacoblin.cool/n0IQ?theme=dark&font=Karma&ext=contest" />
 
