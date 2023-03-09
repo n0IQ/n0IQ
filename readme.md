@@ -3,7 +3,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Mohit_Varma1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/n0IQ&screen_name=Mohit_Varma1)
 
-## <p align="center"> Hello Folks!, This is [**Mohit Varma**]() :wave: </p>
+## <p align="center"> Hello Folks!, This is [**Mohit Varma**](https://github.com/n0IQ) :wave: </p>
 
 <div>
 <h3 align="center"> I'm Mohit Varma, currently a Final year Student at Mumbai University in IT. </h3>
