@@ -67,10 +67,10 @@
 
 ## :zap: Tech Projects
 
-- [**Education Mania**](https://devfolio.co/submissions/educationmania-5775) [Made in [**Hack36 4.0**](https://www.hack36.com/)]
+<!-- - [**Education Mania**](https://devfolio.co/submissions/educationmania-5775) [Made in [**Hack36 4.0**](https://www.hack36.com/)]
 - [**Diagnosis Tracker**](https://github.com/Colossal-Team/Devjam-DayNightCoders-) [Made in [**Devjam 4.0**](https://woc2k21.github.io/)]
 - [**Line Follower Robot**](https://github.com/dhanrajchaurasia/Line-Follower) [Made in [**Robotics**](https://roboticsclub.mnnit.ac.in/) Fresher's Competition]
-- [**Path Planning Robot**](https://github.com/dhanrajchaurasia/Path-Planning-Robot) [Made in [**Robotics Club**](https://roboticsclub.mnnit.ac.in/) Summar Projects]
+- [**Path Planning Robot**](https://github.com/dhanrajchaurasia/Path-Planning-Robot) [Made in [**Robotics Club**](https://roboticsclub.mnnit.ac.in/) Summar Projects] -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
