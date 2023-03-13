@@ -81,10 +81,6 @@
 - I'm a **6 kyu** coder (max. **993**) on [**Atcoder**](https://atcoder.jp/users/captainxop)**.**
 - I'm a **Knight** (max. **1924**) on [**Leetcode**](https://leetcode.com/n0IQ), solved **500+** problems **.**
 
-<!-- ![]() -->
-<!-- ![](https://raw.githubusercontent.com/Mohit./cfstats/main/output/max_rating.svg)
-![]() -->
-
 ## :anchor: Personal Projects
 
 - [**Node.js-JWT-Authentication**](https://github.com/n0IQ/Node.js-JWT-Authentication)
