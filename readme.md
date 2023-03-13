@@ -85,9 +85,11 @@
 <!-- ![](https://raw.githubusercontent.com/Mohit./cfstats/main/output/max_rating.svg)
 ![]() -->
 
-<!-- ## :anchor: Personal Projects
+## :anchor: Personal Projects
 
-- [**URL Shorterner**]() -->
+- [**Node.js-JWT-Authentication**](https://github.com/n0IQ/Node.js-JWT-Authentication)
+- [**Simon-Game**](https://github.com/n0IQ/Simon-Game)
+- [**Job-Listing**](https://github.com/n0IQ/Job-Listing)
 
 <img align="right" height="273em" src="https://leetcard.jacoblin.cool/n0IQ?theme=dark&font=Karma&ext=contest" />
 
