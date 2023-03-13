@@ -69,9 +69,11 @@
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"  height="30px" width = 32px> &nbsp; Coding Profiles
 
-<p><img align="left" src="https://codeforces-readme-stats.vercel.app/api/badge?username=Mohit." /></p> 
+<p><img align="right" height="273em" src="https://codeforces-readme-stats.vercel.app/api/card?username=Mohit." /></p>
 <img align="right" src="https://cp-logo.vercel.app/leetcode/n0IQ" alt="Leet code rating" />
 
+  </a>
+  <p><img align="left" src="https://codeforces-readme-stats.vercel.app/api/badge?username=Mohit." /></p> 
 <br><hr>
 
 - I'm a **Specialist** (max. **1414**), solved **1.4K+** problems on [**Codeforces**](https://codeforces.com/profile/Mohit.)**.**
@@ -87,7 +89,6 @@
 
 - [**URL Shorterner**]() -->
 
-<img align="right" height="273em" src="https://codeforces-readme-stats.vercel.app/api/card?username=Mohit." />
 <img align="right" height="273em" src="https://leetcard.jacoblin.cool/n0IQ?theme=dark&font=Karma&ext=contest" />
 
 ## :dizzy: Repositories
