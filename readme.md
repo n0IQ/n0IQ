@@ -48,7 +48,7 @@
   <a href="https://en.wikipedia.org/wiki/JavaScript"><img width="34.5" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"/></a>
 <!--   <img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>   -->
   <!-- <a href="https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)"><img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bootstrap.svg"/></a> -->
-  <!-- <a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)"><img width="40" src="https://cdn.worldvectorlogo.com/logos/react-1.svg"/></a> -->
+  <a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)"><img width="40" src="https://cdn.worldvectorlogo.com/logos/react-1.svg"/></a>
   <a href="https://nodejs.org/en/"><img width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"/></a>
   <a href="https://expressjs.com/"><img width="40" src="https://cdn.worldvectorlogo.com/logos/express-109.svg"/></a>
   <a href="https://graphql.org/"><img width="40" src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg"/></a>
@@ -62,8 +62,9 @@
 
 ## :zap: Tech Projects
 
-- [**URL Shorterner**](https://github.com/n0IQ/URL-Shortener)
-- [**Pinterest-Clone-Backend**](https://github.com/n0IQ/Pinterest-Clone-Backend)
+- [**CodeNitrix**](https://github.com/n0IQ/CodeNitrix-Backend)
+- [**TripBuds**](https://github.com/n0IQ/TripBuds)
+- [**InstaPin**](https://github.com/n0IQ/InstaPin-Backend)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -83,9 +84,9 @@
 
 ## :anchor: Personal Projects
 
-- [**Node.js-JWT-Authentication**](https://github.com/n0IQ/Node.js-JWT-Authentication)
-- [**Simon-Game**](https://github.com/n0IQ/Simon-Game)
-- [**Job-Listing**](https://github.com/n0IQ/Job-Listing)
+- [**Crypto-Tracker**](https://github.com/n0IQ/Crypto-Tracker)
+- [**URL-Shortener**](https://github.com/n0IQ/URL-Shortener)
+- [**ToDo-App**](https://github.com/n0IQ/ToDo-App)
 
 <img align="right" height="273em" src="https://leetcard.jacoblin.cool/n0IQ?theme=dark&font=Karma&ext=contest" />
 
